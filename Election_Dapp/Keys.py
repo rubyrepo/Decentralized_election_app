@@ -1,0 +1,2 @@
+my_address = "0x1234C569D0D2C7887dd916abD2C1b307a00e6717"
+private_key = "0x4a49e84e9068586c06408cad2126abb5be4c1daa9eb17bbbb88e3b3e8470e751"
